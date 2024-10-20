@@ -1,0 +1,3 @@
+CREATE DATABASE pg_sql;
+
+-- DROP DATABASE IF EXISTS sql_course;
